@@ -101,3 +101,14 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+# Executables
+*.exe
+*.out
+*.app
+*.vcxproj
+*.filters
+
+#bins
+bin/
+bin-int/
+
